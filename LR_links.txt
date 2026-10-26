@@ -1,0 +1,92 @@
+Chapter-3	REVIEW OF PREVIOUS PAPERS
+
+3.1	SPEECH PROCESSING
+
+https://ieeexplore.ieee.org/document/8937250/
+
+https://ieeexplore.ieee.org/document/8462169/
+
+https://ieeexplore.ieee.org/document/9053692/
+
+https://ieeexplore.ieee.org/document/7934614/
+
+https://ieeexplore.ieee.org/document/7404830/
+
+https://ieeexplore.ieee.org/document/9258383/
+
+https://ieeexplore.ieee.org/document/191460/
+
+
+3.2	FEATURE EXTRACTION FROM SPEECH SIGNALS
+
+3.2.1	Various processes of Feature Extraction
+
+https://ieeexplore.ieee.org/document/7754447/
+
+https://ieeexplore.ieee.org/document/7846618/
+
+https://ieeexplore.ieee.org/document/7732362/
+
+https://ieeexplore.ieee.org/document/8361563/
+
+https://ieeexplore.ieee.org/document/7955831/
+
+
+3.2.2	Feature Extraction using MFCC
+
+https://ieeexplore.ieee.org/document/5256299/
+
+https://ieeexplore.ieee.org/document/8534807/
+
+https://ieeexplore.ieee.org/document/8300161/
+
+https://ieeexplore.ieee.org/document/8780566/
+
+https://ieeexplore.ieee.org/document/8780566/
+
+https://ieeexplore.ieee.org/document/8350748/
+
+https://ieeexplore.ieee.org/document/7754132/
+
+
+
+3.3	SPEECH CLASSIFICATION
+
+https://ieeexplore.ieee.org/document/9332145/
+
+https://ieeexplore.ieee.org/document/8714304/
+
+https://ieeexplore.ieee.org/document/9753976/
+
+https://ieeexplore.ieee.org/document/9532213/
+
+https://ieeexplore.ieee.org/document/4688077/
+
+3.4	GENDER DETECTION USING SPEECH ANALYTICS 
+
+3.4.1	Application of Machine Learning
+
+https://ieeexplore.ieee.org/document/9332145/
+
+https://ieeexplore.ieee.org/document/7878217
+
+https://ieeexplore.ieee.org/document/8204065/
+
+https://ieeexplore.ieee.org/document/7528391/
+
+https://ieeexplore.ieee.org/document/8594870
+
+https://ieeexplore.ieee.org/document/9688884
+
+3.4.2	Application of Deep Learning
+
+https://ieeexplore.ieee.org/document/9331995/
+
+https://ieeexplore.ieee.org/document/9530078/
+
+https://ieeexplore.ieee.org/document/8884267/
+
+https://ieeexplore.ieee.org/document/7878217/
+
+https://ieeexplore.ieee.org/document/9873519/
+
