@@ -29,7 +29,7 @@ Performance: The KNN classifier achieved a peak detection accuracy of 99.51%, ou
 ---
 
 ## 🎯 About the Project
-Speech processing is a vital field in signal processing with broad applications. This project investigates the challenges of distinguishing between male and female speech patterns-particularly when fundamental frequencies overlap by combining digital signal processing (DSP) and supervised machine learning classifiers. 
+Speech processing is a vital field in signal processing with broad applications. This project investigates the challenges of distinguishing between male and female speech patterns, particularly when fundamental frequencies overlap, by combining digital signal processing (DSP) with supervised machine learning classifiers. 
 
 Through robust feature extraction, data normalization, and upscaling techniques, the final model achieved an exceptional accuracy of **99.51%** using the K-Nearest Neighbors (KNN) classifier.
 
@@ -69,11 +69,11 @@ The project evaluated five machine learning classifiers from different algorithm
 ### Performance Summary (Upscaled Data):
 | Classifier | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 | :--- | :---: | :---: | :---: | :---: |
-| **K-Neighbors** | **99.51**[cite: 2] | **99.51**[cite: 2] | **99.51**[cite: 2] | **99.51**[cite: 2] |
-| **Linear SVC** | 76.01[cite: 2] | 76.01[cite: 2] | 76.01[cite: 2] | 76.01[cite: 2] |
-| **Logistic Regression** | 75.81[cite: 2] | 75.85[cite: 2] | 75.81[cite: 2] | 75.81[cite: 2] |
-| **Gradient Boosting** | 75.60[cite: 2] | 75.77[cite: 2] | 75.60[cite: 2] | 75.51[cite: 2] |
-| **Decision Tree** | 69.95[cite: 2] | 72.94[cite: 2] | 69.95[cite: 2] | 68.67[cite: 2] |
+| **K-Neighbors** | **99.51** | **99.51** | **99.51** | **99.51** |
+| **Linear SVC** | 76.01 | 76.01 | 76.01 | 76.01 |
+| **Logistic Regression** | 75.81 | 75.85 | 75.81 | 75.81 |
+| **Gradient Boosting** | 75.60 | 75.77 | 75.60 | 75.51 |
+| **Decision Tree** | 69.95 | 72.94 | 69.95 | 68.67 |
 
 *The **KNN classifier** significantly outperformed previous baseline literature approaches, achieving a peak accuracy of **99.51%**.*
 
